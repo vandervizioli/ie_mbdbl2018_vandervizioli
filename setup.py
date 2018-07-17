@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='pythonpackagesample',
+setup(name='ie_mbdbl2018_vandervizioli',
       version='0.1',  # Development release
-      description='Python Packaging Starting Kit - Simple Structure to creater your own package - for training purposes!',
-      url='https://github.com/manoelgadi/pythonpackagesample',
-      author='Prof. Manoel Gadi',
-      author_email='mfalonso@faculty.ie.edu',
+      description='Python Packaging Starting Kit - Simple Structure to create your own package - for training purposes!',
+      url='https://github.com/vandervizioli/ie_mbdbl2018_vandervizioli.git',
+      author='Vander Vizioli',
+      author_email='vander.vizioli@student.ie.edu',
       license='MIT',
-          packages=['pythonpackagesample'],
+          packages=['ie_mbdbl2018_vandervizioli'],
       zip_safe=False)
